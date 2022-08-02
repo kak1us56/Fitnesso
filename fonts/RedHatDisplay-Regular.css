@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'RedHatDisplay-Regular';
+    src: url('RedHatDisplay-Regular.woff') format('woff'),
+         url('RedHatDisplay-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+  }
